@@ -1,0 +1,29 @@
+﻿@model IEnumerable<carShop.Models.Car>
+@{
+    Layout = "/Views/MasterView.cshtml";
+}
+
+<table>
+    <tr>
+        <th id="main_title" colspan="3"><h1>Главная</h1></th>
+    </tr>
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td class="small_card">
+                <img src="@item.Preview" alt="@item.Title" />
+                <div class="content">
+                    <small>@item.Type</small>
+                    <h2>@item.Title</h2>
+                    <p>@item.Description</p>
+                    <a href="@Url.Action("CarPage", "Home", new {item_id=item.Id})" title="@item.Title">Перейти</a>
+                </div>
+            </td>
+        }
+    </tr>
+    <tr>
+        <td class="big_card" colspan="3">
+            @Html.Action("Form", "Home");
+        </td>
+    </tr>
+</table>

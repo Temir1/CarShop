@@ -1,0 +1,114 @@
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ApplicationInsights.config
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\csc.exe
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\vbc.exe
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\carShop.dll.config
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\carShop.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\carShop.pdb
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\EntityFramework.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\EntityFramework.SqlServer.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.Web.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Helpers.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Mvc.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Razor.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\EntityFramework.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\EntityFramework.SqlServer.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.Web.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Razor.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Helpers.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\System.Web.Mvc.xml
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\EntityFramework.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\obj\Debug\carShop.csprojResolveAssemblyReference.cache
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\obj\Debug\carShop.dll
+C:\Users\temir\OneDrive\Документы\Visual Studio 2015\Projects\Web\carShop\carShop\obj\Debug\carShop.pdb
+D:\carShop\carShop\bin\ApplicationInsights.config
+D:\carShop\carShop\bin\roslyn\csc.exe
+D:\carShop\carShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\carShop\carShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\carShop\carShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\carShop\carShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\carShop\carShop\bin\roslyn\System.Collections.Immutable.dll
+D:\carShop\carShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\carShop\carShop\bin\roslyn\vbc.exe
+D:\carShop\carShop\bin\roslyn\VBCSCompiler.exe
+D:\carShop\carShop\bin\roslyn\VBCSCompiler.exe.config
+D:\carShop\carShop\bin\carShop.dll.config
+D:\carShop\carShop\bin\carShop.dll
+D:\carShop\carShop\bin\carShop.pdb
+D:\carShop\carShop\bin\EntityFramework.dll
+D:\carShop\carShop\bin\EntityFramework.SqlServer.dll
+D:\carShop\carShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\carShop\carShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\carShop\carShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\carShop\carShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\carShop\carShop\bin\Microsoft.AI.Web.dll
+D:\carShop\carShop\bin\Microsoft.AI.WindowsServer.dll
+D:\carShop\carShop\bin\Microsoft.ApplicationInsights.dll
+D:\carShop\carShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\carShop\carShop\bin\Microsoft.Web.Infrastructure.dll
+D:\carShop\carShop\bin\System.Web.Helpers.dll
+D:\carShop\carShop\bin\System.Web.Mvc.dll
+D:\carShop\carShop\bin\System.Web.Razor.dll
+D:\carShop\carShop\bin\System.Web.Webpages.Deployment.dll
+D:\carShop\carShop\bin\System.Web.Webpages.dll
+D:\carShop\carShop\bin\System.Web.Webpages.Razor.dll
+D:\carShop\carShop\bin\EntityFramework.xml
+D:\carShop\carShop\bin\EntityFramework.SqlServer.xml
+D:\carShop\carShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\carShop\carShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\carShop\carShop\bin\Microsoft.AI.Web.xml
+D:\carShop\carShop\bin\Microsoft.AI.WindowsServer.xml
+D:\carShop\carShop\bin\Microsoft.ApplicationInsights.xml
+D:\carShop\carShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\carShop\carShop\bin\System.Web.Razor.xml
+D:\carShop\carShop\bin\System.Web.Webpages.xml
+D:\carShop\carShop\bin\System.Web.Webpages.Deployment.xml
+D:\carShop\carShop\bin\System.Web.Webpages.Razor.xml
+D:\carShop\carShop\bin\System.Web.Helpers.xml
+D:\carShop\carShop\bin\System.Web.Mvc.xml
+D:\carShop\carShop\bin\ru\EntityFramework.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Razor.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Webpages.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Helpers.resources.dll
+D:\carShop\carShop\bin\ru\System.Web.Mvc.resources.dll
+D:\carShop\carShop\obj\Debug\carShop.csprojResolveAssemblyReference.cache
+D:\carShop\carShop\obj\Debug\carShop.dll
+D:\carShop\carShop\obj\Debug\carShop.pdb
